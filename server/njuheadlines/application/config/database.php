@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '182.254.150.201',
-	'username' => 'root',
-	'password' => 'root',
-	'database' => 'Toutiao',
+	'hostname' => 'rm-bp1zic4w85hv4wni4o.mysql.rds.aliyuncs.com',
+	'username' => 'headlines_user',
+	'password' => 'njuheadlines@131250',
+	'database' => 'njuheadlines',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
